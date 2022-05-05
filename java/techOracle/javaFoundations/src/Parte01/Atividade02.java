@@ -1,4 +1,4 @@
-package parte01;
+package Parte01;
 
 public class Atividade02 {
 

@@ -1,4 +1,4 @@
-package parte01;
+package Parte01;
 
 public class atividade01 {
     public static void main(String[] args) {
