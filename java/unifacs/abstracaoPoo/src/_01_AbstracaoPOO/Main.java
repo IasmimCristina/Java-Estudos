@@ -7,6 +7,12 @@ public class Main {
         //O polimorfismo permite que classes abstratas consigam receber comportamentos através de classes concretas.
         ControleRemoto c1 = new ControleRemoto();
         c1.ligar();
+        c1.abrirMenu();
+        c1.fecharMenu();
+        c1.maisVolume();
+        c1.ligarMudo();
+        c1.desligar();
+        c1.maisVolume();
 
     }
 }
