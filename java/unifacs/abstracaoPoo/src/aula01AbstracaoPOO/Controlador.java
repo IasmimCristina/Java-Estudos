@@ -1,4 +1,4 @@
-package _01_AbstracaoPOO;
+package aula01AbstracaoPOO;
 
 public interface Controlador {
     void ligar();
